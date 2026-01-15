@@ -1,4 +1,4 @@
-# Hi, I'm Casey 👋
+# Hi! I'm Casey 👋 Welcome to my page!
 
 I'm a Senior Software Engineer who builds across the stack — from polished, scalable front-end experiences to reliable backend platforms (API design, event-driven systems), with a focus on safe rollouts, observability, and performance.
 
